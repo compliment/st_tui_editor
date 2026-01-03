@@ -1,7 +1,7 @@
 import streamlit as st
 
 out = st.components.v2.component(
-    "streamlit-component-x.st_tui_editor",
+    "st_tui_editor.st_tui_editor",
     js="index-*.js",
     css="index-*.css",
     html='<div class="react-root"></div>',

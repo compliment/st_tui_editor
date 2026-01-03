@@ -1,7 +1,7 @@
 # Ship a minimal metadata file that can be picked up by Streamlit at runtime.
 [project]
-name = "streamlit-component-x"
-version = "0.0.1"
+name = "st_tui_editor"
+version = "0.0.3"
 
 [[tool.streamlit.component.components]]
 name = "st_tui_editor"
