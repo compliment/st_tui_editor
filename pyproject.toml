@@ -5,7 +5,6 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "st_tui_editor"
 version = "0.0.2"
-readme = "README.md"
 description = "Use Toast UI Editor ui.toast.com/tui-editor in your streamlit project."
 readme = "README.md"
 license = { text = "MIT" }
