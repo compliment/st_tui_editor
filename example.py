@@ -6,7 +6,7 @@ st.title("Toast UI Editor Component")
 
 st.markdown("""
 This component wraps the [Toast UI Editor](https://ui.toast.com/tui-editor).
-Edit the markdown below and click the **Save** icon (💾) in the toolbar (far right) to update the Streamlit state.
+Edit the markdown below and click the **markdown** icon in the toolbar (far right) to update the Streamlit state.
 """)
 
 initial_value = """
