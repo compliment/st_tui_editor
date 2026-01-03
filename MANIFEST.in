@@ -1,0 +1,2 @@
+recursive-include st_tui_editor/frontend/build *
+include pyproject.toml
